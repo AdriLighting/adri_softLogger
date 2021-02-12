@@ -1,6 +1,6 @@
 // region ################################################ 
 /**
- * @file    logger.cpp
+ * @file    adri_soft_logger.cpp
  *
  * @brief   fournit des fonctionnalités utiles pour déboguer les croquis via "printf" ou "LITTLEFS"
  * @see     
@@ -55,7 +55,7 @@
 
 
 #include "adri_soft_logger.h"
-
+#include <adri_tools_v2.h>
 
 char* adriLogger_buffer1;
 

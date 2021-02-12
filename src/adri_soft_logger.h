@@ -3,7 +3,6 @@
 	#define ADRI_SOFT_LOGGER_H
 
 	#include <arduino.h>
-	#include <adri_tools_v2.h>
 
 	extern char * adriLogger_buffer1;
 	
