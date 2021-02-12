@@ -3,7 +3,7 @@
 <pre>
 
     based one esp8266 framework
-    https://github.com/AdriLighting/adri_tools_v2/blob/main/src/adri_tools_v2
+    https://github.com/AdriLighting/adri_tools_v2/
     
 Dependency Graph
 |-- (adri_tools_v2) 1.0.0
